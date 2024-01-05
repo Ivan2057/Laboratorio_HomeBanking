@@ -1,0 +1,2 @@
+# Descripcion
+El proyecto de homebanking, fue desarrollado a lo largo de un cuatrimestre para la materia de Laboratorio 1, es una aplicación Java innovadora y segura. Utilizando una base de datos H2, creamos una plataforma intuitiva que permite a los usuarios gestionar sus finanzas cómodamente desde casa. Desde transferencias seguras hasta administración de cuentas, nuestra aplicación ofrece una experiencia bancaria completa y confiable para nuestros usuarios.
